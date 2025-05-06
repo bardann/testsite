@@ -53,7 +53,12 @@ const Services: React.FC = () => {
       icon: <Lock size={28} />,
       title: "Cybersecurity",
       description: "Comprehensive security solutions to protect your digital assets and sensitive information."
-    }
+    },
+    {
+      icon: <Smartphone size={28} />,
+      title: "Mobile App Development",
+      description: "Native and cross-platform mobile applications for iOS and Android devices."
+    },
   ];
 
   return (
